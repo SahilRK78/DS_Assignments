@@ -1,5 +1,6 @@
 # DS_Assignments
 This repository contains a collection of data science assignments completed during my certification. The assignments cover a variety of machine learning models and data science techniques, showcasing practical applications and hands-on experience.
+
 Key Techniques and Models
 Supervised Machine Learning
 Linear Regression (MLR)
